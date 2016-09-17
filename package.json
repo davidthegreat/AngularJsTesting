@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/davidthegreat/AngularJsTesting#readme",
   "dependencies": {
+    "jasmine-core": "^2.5.2",
     "karma": "^1.3.0",
     "karma-chrome-launcher": "^2.0.0",
     "karma-jasmine": "^1.0.2"
